@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Preface – Context"
+date:   2020-07-01 01:00:00 +0700
+categories: dhammapalo
+---
+It would be confusing to start the diary without providing any context as to what and why I ended up doing some of the things I did and I'll add these throughout the various posts. To be perfectly honest, I didn't really know much of what I was getting into at the time either, other than that I thought it was the right thing to be doing. An overly simplified outline of Buddhism in Thailand is in order.
+
+![Buddhism summary](/assets/images/buddhism-summary-1.png)
+
+Disclaimer: This diagram is NOT an exhaustive summary of all the Buddhist traditions as there would be too many to show. I have decided show only those branches that are relevant to my experiences (highlighted).
+
+Books are written on the different sects and branches of Buddhism but the flavour that exists today in Thailand originated from Sri Lanka. Other well known forms of Buddhism such as the Tibetan is form of Mahayana Buddhism (led by the famous Dalai Lama) and similarly Zen Buddhism of Japan. Each branch or sect would have slightly different methods of practice but the core philosophies are very much similar to each other.
+
+In Thailand however, Buddhist tradition is split into two orders but the Dhammayuttika order accounts for a small minority of monks so I'd like to focus on the other. If you happen to come to Thailand, the vast majority of the monks that you'll see are Maha Nikaya (literally translated as the great collection) monks and they'll most likely belong to the ‘House Tradition' (วัดบ้าน translates literally to House Monasteries). For my ordination and the few days after, I stayed at a monastery following this tradition. Only when I travelled up to Chiang Mai during the last week of January did I start to follow the stricter practices of the [Forest Tradition](https://forestsangha.org/about/history/this-community){:target="_blank"}.
+
+There are many differences governing the practices between the House and Forest monks and the most immediate one was the process of ordination. In the [Ajahn Chah](https://forestsangha.org/ajahn-chah/biography){:target="_blank"} tradition where I spent the bulk of my time (ajahn literally means teacher in Thai), the length of time it took to go from a lay person to a "full-time" monk could mean years in between as a novice monk. It was purposely more difficult as he wanted monks to truly pursue the path long term. There's nothing stopping Buddhist monks from leaving the practice, the process known as disrobing, and it is intentionally easy as individuals are never held against their will should make the decision. However, the belief was simply "Hard to ordain, hard to disrobe. Easy to ordain, easy to disrobe."
+
+This made my opportunity to spend time practising at a Forest Monastery even more special and I have many to thank along the way. As I did not have the intention of permanent ordination, I would have to first ordain as a monk and visit in a different capacity. Since it was much faster to ordain as a House monk, I would do so first at a monastery about half an hour north of Bangkok near a relative. Our family have known the monastery for many years and getting ordained there was a relatively simple matter. This was the beginning of my journey. I would have to stay there for a few days before ordination day to get acclimatised to the monastic lifestyle. Once I am ordained as a monk, I would then travel to stay at the Forest Monastery in the capacity of a visiting monk. As a visiting monk, I would be held to slightly different set of disciplines compared to full time monastics of the Forest Tradition.
+
+From the next post onwards I will be beginning with the diary entries. They will be slightly adapted as I was never a prolific writer, let alone a diarist. Much of the entries amounted to "I did X, and then I did Y. And then I did Z" so I will take a stab to make the prose slightly more readable than the source material.
+
+Much of the first few days were spent stressing over the [Ukasa](https://www.youtube.com/watch?v=uWfCgSG_aKw){:target="_blank"}, which is a style of the ordination ceremony that all laypeople must undergo. It requires the memorising and chanting of long [Pali](https://en.wikipedia.org/wiki/Pali){:target="_blank"} (an old Indian tongue) passages before a preceptor, also known as an ordinating monk. In fact, the attached video was the very same one that I referred to when learning and I was anxious at first to know that I would have to recite so many words when I had no idea what anything meant.

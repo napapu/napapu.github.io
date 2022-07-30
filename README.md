@@ -1,2 +1,0 @@
-# napapu.github.io
-Blog
