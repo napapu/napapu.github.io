@@ -23,7 +23,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Upapan's blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://napapu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://upapan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: upapan
 github_username:  napapu
 
@@ -38,7 +38,6 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - about.md
   - dhammapalo.md
 
 # Exclude from processing.
